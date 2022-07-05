@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">Hopping in the tech world</h3>
 
-<div align = "center">
-  <img src = "https://github.com/Cm4ndns/Cm4ndns/blob/main/gitartwork.svg" alt = "gitart-work" />
-</div>
+![gitartwork](gitartwork.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="tiasaxena" /> </p>
 
