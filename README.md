@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiasaxena&show_icons=true&locale=en" alt="tiasaxena" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiasaxena&" alt="tiasaxena" /></p>
+
+<div  align = "center">
+  <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
+  <img src="https://github.com/Cm4ndns/Cm4ndns/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
+</div>
