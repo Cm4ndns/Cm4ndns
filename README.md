@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">Hopping in the tech world</h3>
 
+<div align = "center">
+  <img src = "https://github.com/coded15/coded15/blob/main/gitartwork.svg" alt = "gitart-work" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="tiasaxena" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiasaxena" alt="tiasaxena" /></a> </p>
