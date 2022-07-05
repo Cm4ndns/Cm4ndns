@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: Cm4ndns
+            user_name: tiasaxena
             # Text on contribution graph 
-            text: Cm4ndns
+            text: Tia Saxena
        - uses: jasineri/simple-push-action@v1
